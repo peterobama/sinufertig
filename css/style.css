@@ -1,0 +1,39 @@
+#container {
+  position: relative;
+  height: 80vh;
+  width: 95%;
+  //border: solid 1px red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.neu1 {
+    position:absolute; 
+    top: 450px;
+    margin:20px;
+     margin-left:100px;
+    margin-right:20px;
+
+}
+
+.neu2 {
+    position:absolute; 
+    left:290px;
+    top: 450px;
+    margin:20px;
+     margin-left:20px;
+    margin-right:40px;
+
+}
+
+.neu3 {
+    position:absolute; 
+    left:650px;
+    top: 450px;
+    margin:20px;
+     margin-left:20px;
+    margin-right:40px;
+
+}
+
